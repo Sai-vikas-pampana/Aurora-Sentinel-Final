@@ -1,0 +1,10 @@
+[
+    {"id": "E-201", "text": "Significant market surge in tech sector!", "emotion": "Happy", "intensity": 0.92, "sentiment": "positive"},
+    {"id": "E-202", "text": "Unexpected regulatory pushback on AI protocols.", "emotion": "Angry", "intensity": 0.85, "sentiment": "negative"},
+    {"id": "E-203", "text": "Minor system delay in data ingestion pipelines.", "emotion": "Neutral", "intensity": 0.35, "sentiment": "neutral"},
+    {"id": "G-101", "text": "I'm so excited about the new space launch results! 🚀", "emotion": "Joy", "intensity": 0.95, "sentiment": "positive"},
+    {"id": "G-102", "text": "The lack of action on climate is deeply worrying.", "emotion": "Fear", "intensity": 0.78, "sentiment": "negative"},
+    {"id": "G-103", "text": "Everything is breaking in the new update, super frustrated.", "emotion": "Angry", "intensity": 0.88, "sentiment": "negative"},
+    {"id": "G-104", "text": "Interesting points made in the latest research paper.", "emotion": "Surprise", "intensity": 0.65, "sentiment": "neutral"},
+    {"id": "G-105", "text": "Just another quiet day in the venture capital world.", "emotion": "Neutral", "intensity": 0.40, "sentiment": "neutral"}
+]

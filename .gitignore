@@ -1,0 +1,20 @@
+# Metadata Intelligence Exclusions (v3.1)
+node_modules/
+.env
+*.db
+*.log
+.pytest_cache/
+dist/
+build/
+.DS_Store
+.vscode/
+.gemini/
+.agent/
+.agents/
+knowledge/
+brain/
+*.webp
+*.png
+*.mp4
+temp/
+tmp/

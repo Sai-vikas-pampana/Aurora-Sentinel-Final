@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+websockets
+# Optional for local ML:
+# transformers
+# torch
