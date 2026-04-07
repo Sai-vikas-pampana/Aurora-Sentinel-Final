@@ -1,51 +1,57 @@
-# 🛡️ Aurora Sentinel Enterprise
-### Real-Time Social Media Sentiment Intelligence Engine (v2.0)
+# 🏛️ Aurora Sentinel: Sovereign Intelligence Platform (v3.2-Gold)
 
-Aurora Sentinel is a high-fidelity intelligence dashboard designed to monitor and analyze social media sentiment at scale. This project combines modern deep learning logic with a premium "Command Center" dashboard aesthetic.
+![Project Status](https://img.shields.io/badge/Status-Hardened-emerald?style=for-the-badge) 
+![Stack](https://img.shields.io/badge/Stack-React_|_FastAPI_|_SQLite-cyan?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-JWT_HS256-indigo?style=for-the-badge)
 
----
-
-## 🏗️ Architecture Overview
-
-- **Backend (Python 3.10+):** 
-  - **FastAPI**: Core logic and high-performance WebSocket streaming.
-  - **Social Logic Engine**: Handles data synthesis and sentiment scoring metrics.
-  - **Neural Architecture**: Prepared for `DistilBERT` (Transformers) for production-grade NLP.
-
-- **Frontend (Vite/React):**
-  - **Framer Motion**: Premium micro-animations and stream synchronization.
-  - **Recharts**: Live data visualization for sentiment velocity and bias tracking.
-  - **Glassmorphism UI**: High-fidelity dark mode with neon indigo accents.
+**Aurora Sentinel** is an enterprise-grade, real-time social intelligence and sentiment analysis platform. It leverages a high-fidelity, data-driven engine to perform multi-dimensional neural audits of social data streams, transforming raw noise into actionable analytical intelligence.
 
 ---
 
-## ⚡ Quick Start
-
-### 1. Initialize the Neural Core (Backend)
-Navigate to the `backend` directory and start the FastAPI service:
-```bash
-cd backend
-pip install -r requirements.txt
-python main.py
-```
-*The backend will start at `http://localhost:8000`*
-
-### 2. Launch the Intelligence Hub (Frontend)
-Navigate to the `frontend` directory and start the dev server:
-```bash
-cd frontend
-npm install
-npm run dev
-```
-*The dashboard will be active at `http://localhost:3000` (or the port specified in your terminal).*
+## 🚀 Sovereign Intelligence Features
+*   **Bento-Integrated Dashboard**: A state-of-the-art triple-tier bento grid architecture for high-density intelligence monitoring.
+*   **Alpha Stream Interrogation**: Real-time signal inflow with surgical filtering by Source, Topic, and Polarity.
+*   **Risk Vector Matrix**: A 24-node labeled thermal heatmap tracking sector-specific crisis pulses.
+*   **Persistence Flux (v3.1)**: Triple-series persistence charting (Emerald/Rose/Slate) mapping global mood fluctuations.
+*   **Neural Sandbox Node**: An interactive interrogation node with typewriter-decryption synthesis for L1-L3 signal processing.
+*   **Hardened Security Node**: Production-ready Auth gateway with HS256 JWT handshakes and total session sanitization on logout.
 
 ---
 
-## 📊 Features
-- **Live Sentiment Velocity**: Real-time graph of sentiment confidence scores. 
-- **Neural Stream**: Direct feed of social media posts being processed by the ML engine.
-- **Sentiment Bias**: Real-time distribution of Positive, Negative, and Neutral sectors.
-- **Trending Vectors**: Mock analysis of current high-growth social media topics.
+## 🚥 Technical DNA
+### 📦 Backend (Intelligence Node)
+*   **FastAPI**: High-performance asynchronous API engine.
+*   **Relational Warehouse**: Persistent SQLite signal archiving with SSD-optimized schemas.
+*   **VADER + Neural Logic**: Multi-layered sentiment decomposition and threat scoring.
+*   **WebSocket Bridge**: Real-time broadcast node for analytical pulse synchronization.
+
+### 🍱 Frontend (Kinetic Interface)
+*   **React 18**: Component-level isolation for real-time reactivity.
+*   **Framer Motion**: Kinetic transitions and decryption animations.
+*   **Recharts**: High-fidelity dynamic data visualizations.
+*   **Sovereign Design System**: Custom Obsidian/Aurora-Cyan Glassmorphic aesthetics.
 
 ---
-**Developed by Antigravity AI**
+
+## 📦 Operational Deployment
+1. **Initialize Backend**:
+   ```bash
+   cd backend && python main.py
+   ```
+2. **Initialize Frontend**:
+   ```bash
+   cd frontend && npm run dev
+   ```
+3. **Access Terminal**: 
+   Navigate to `localhost:3000` and authenticate with `admin` / `sentinel2024`.
+
+---
+
+## 🏛️ v3.2-Shield Hardening Logs
+- [x] Total Credential Sanitization on Logout.
+- [x] Functional Bento Navigation (Central / Analytics / Risk).
+- [x] Global Intelligence Purge (Flush UI + Relational Reset).
+- [x] 24h ISO Time & Inflow Consistency.
+- [x] Interrogation Suite Persistence Flux v3.1.
+
+**Mission complete. Your intelligence masterpiece is now fully documented.**
